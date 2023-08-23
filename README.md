@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **mahashiv82@gmail.com**
 
-- 📄 Know about my experiences [https://resumeshivanshu.netlify.app/](https://resumeshivanshu.netlify.app/)
+- 📄 Know about my experiences [https://resumeshivanshu.netlify.app/](https://getshivanshuportfolio.netlify.app/)
 
 - ⚡ Fun fact **💻😎🦾**
 
