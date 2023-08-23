@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **mahashiv82@gmail.com**
 
-- 📄 Know about my Works with Portfolio [Portfolio](https://getshivanshuportfolio.netlify.app/)
+- 📄 Know about More [Portfolio](https://getshivanshuportfolio.netlify.app/)
 
 - ⚡ Fun fact **💻😎🦾**
 
