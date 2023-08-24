@@ -1,9 +1,7 @@
 ![logo](https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg)
 <h1 align="center">Hi 👋</h1>
 <h1 align="center">I'm Shivanshu Rajput</h1>
-<h3 align="center"><p>Passionate about web development using <a link href="https://react.dev/">ReactJs </a>
-            Strongly focused to complete
-            the task in the fast faced environment.</p></h3>
+<h2 align="center"><p>Enthusiastic fresher frontend developer proficient in React, HTML, Tailwind Css, and JavaScript. Eager to create captivating user interfaces and learn</p></h2>
 <img align="right" alt="coading" width="400" src="https://user-images.githubusercontent.com/103635801/206841304-900bfdc9-a7a1-4d1c-8dea-668bd28d8e81.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanshu002&label=Profile%20views&color=0e75b6&style=flat" alt="shivanshu002" /> </p>
