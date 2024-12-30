@@ -1,48 +1,48 @@
 Hi 👋, I'm Shivanshu Rajput
 About Me
-I am a frontend developer with a strong foundation in JavaScript, React.js, React Native, Redux, and version control using Git and GitHub. I am passionate about creating dynamic user interfaces and seamless user experiences, both for websites and mobile apps.
+I am a Frontend Developer with a strong foundation in JavaScript, React.js, React Native, Redux, and Git/GitHub. I specialize in building dynamic websites and mobile applications, focusing on delivering exceptional user experiences. With a deep passion for technology and continuous learning, I aim to craft scalable and efficient solutions for web and mobile platforms.
 
-Currently, I'm enhancing my skills in MERN stack development and deepening my knowledge in mobile app development using React Native and Flutter.
+Currently, I am enhancing my skills in MERN stack development and deepening my expertise in mobile app development with React Native and Flutter.
 
-Tech Stack & Tools
+🌱 Currently Learning:
+Mastering React.js and React Native for advanced frontend and mobile app development.
+Improving backend skills with Node.js and MongoDB.
+Exploring Flutter and Dart for cross-platform mobile development.
+💻 Tech Stack & Tools
 Frontend Development:
-
-React.js | React Native | Redux | Tailwind CSS | HTML5 | CSS3
+JavaScript | React.js | React Native | Redux | HTML5 | CSS3 | Tailwind CSS | Bootstrap
 Mobile App Development:
-
 React Native | Flutter | Dart
 Backend Development:
-
 Node.js | Express.js | MongoDB
 Version Control & Collaboration:
-
 Git | GitHub
-Others:
+Other Tools:
+Firebase | Babel
+📈 GitHub Stats
+Here’s a quick overview of my coding activity and contributions:
 
-Firebase | Bootstrap | Babel
-Current Focus
-Mastering the MERN stack (MongoDB, Express.js, React, Node.js).
-Deepening expertise in React Native and Flutter for mobile app development.
-Continuously improving problem-solving and coding practices on HackerRank and contributing to open-source projects.
-How to Reach Me
+
+
+📫 How to Reach Me
 📧 Email: mahashiv82@gmail.com
-🌐 Portfolio: getshivanshuportfolio.netlify.app
-Fun Fact
-💻 Coding is my passion, learning is my journey, and I'm always excited about new technologies.
+🌐 Portfolio: My Portfolio
+💼 LinkedIn: LinkedIn Profile
+🌍 CodeSandbox: CodeSandbox Profile
+🏆 HackerRank: HackerRank Profile
+🚀 Fun Fact
+💻 I love to code, experiment with new technologies, and always challenge myself with new projects. My goal is to build beautiful, efficient, and functional applications that provide value to users.
 
-Connect with Me
-LinkedIn
-CodeSandbox
-HackerRank
-GitHub Stats
-Top Languages:
-
-JavaScript
+📱 Let's Connect
+LinkedIn: Shivanshu Rajput
+CodeSandbox: shivanshu0029
+HackerRank: shivanshu63073
+🔧 Technologies I'm Familiar With
 React.js
 React Native
-HTML/CSS
 Redux
-GitHub Stats:
-
-Public Repositories: Showcasing projects built with React.js, React Native, and more.
-Streak Stats: Keeping up with daily coding challenges and contributions.
+Node.js
+MongoDB
+Tailwind CSS
+Firebase
+Git & GitHub
