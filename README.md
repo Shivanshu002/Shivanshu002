@@ -1,48 +1,41 @@
-Hi 👋, I'm Shivanshu Rajput
-About Me
-I am a Frontend Developer with a strong foundation in JavaScript, React.js, React Native, Redux, and Git/GitHub. I specialize in building dynamic websites and mobile applications, focusing on delivering exceptional user experiences. With a deep passion for technology and continuous learning, I aim to craft scalable and efficient solutions for web and mobile platforms.
+![logo](https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg)
+<h1 align="center">Hi 👋</h1>
+<h1 align="center">I'm Shivanshu Rajput</h1>
+<h2 align="center"><p>Enthusiastic fresher frontend developer proficient in React, HTML, Tailwind Css, and JavaScript. Eager to create captivating user interfaces and learn</p></h2>
+<img align="right" alt="coading" width="400" src="https://user-images.githubusercontent.com/103635801/206841304-900bfdc9-a7a1-4d1c-8dea-668bd28d8e81.gif"
 
-Currently, I am enhancing my skills in MERN stack development and deepening my expertise in mobile app development with React Native and Flutter.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanshu002&label=Profile%20views&color=0e75b6&style=flat" alt="shivanshu002" /> </p>
 
-🌱 Currently Learning:
-Mastering React.js and React Native for advanced frontend and mobile app development.
-Improving backend skills with Node.js and MongoDB.
-Exploring Flutter and Dart for cross-platform mobile development.
-💻 Tech Stack & Tools
-Frontend Development:
-JavaScript | React.js | React Native | Redux | HTML5 | CSS3 | Tailwind CSS | Bootstrap
-Mobile App Development:
-React Native | Flutter | Dart
-Backend Development:
-Node.js | Express.js | MongoDB
-Version Control & Collaboration:
-Git | GitHub
-Other Tools:
-Firebase | Babel
-📈 GitHub Stats
-Here’s a quick overview of my coding activity and contributions:
+- 🌱 I’m currently learning **MERN**
+
+- 📫 How to reach me **mahashiv82@gmail.com**
+
+- 📄 Know about More [Portfolio](https://getshivanshuportfolio.netlify.app/)
+
+- ⚡ Fun fact **💻😎🦾**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/shivanshu-rajput-a134a5226/" target="blank">
+ <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivanshu-rajput-a134a5226/" height="30" width="40" />
+</a>
+<a href="https://codesandbox.com/shivanshu0029" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="shivanshu0029" height="30" width="40" />
+</a>
+<a href="https://www.hackerrank.com/@shivanshu63073" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@shivanshu63073" height="30" width="40" />
+</a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="center"> 
+			    <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+        </a>
+        <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer">  </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="80" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivanshu002&show_icons=true&locale=en&layout=compact" alt="shivanshu002" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivanshu002&show_icons=true&locale=en" alt="shivanshu002" /></p>
 
 
-
-📫 How to Reach Me
-📧 Email: mahashiv82@gmail.com
-🌐 Portfolio: My Portfolio
-💼 LinkedIn: LinkedIn Profile
-🌍 CodeSandbox: CodeSandbox Profile
-🏆 HackerRank: HackerRank Profile
-🚀 Fun Fact
-💻 I love to code, experiment with new technologies, and always challenge myself with new projects. My goal is to build beautiful, efficient, and functional applications that provide value to users.
-
-📱 Let's Connect
-LinkedIn: Shivanshu Rajput
-CodeSandbox: shivanshu0029
-HackerRank: shivanshu63073
-🔧 Technologies I'm Familiar With
-React.js
-React Native
-Redux
-Node.js
-MongoDB
-Tailwind CSS
-Firebase
-Git & GitHub
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivanshu002&" alt="shivanshu002" /></p>
