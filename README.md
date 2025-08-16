@@ -1,59 +1,59 @@
-<h1 align="center">Hi 👋 I'm Shivanshu Rajput</h1>
-<h2 align="center">
-  <p>
-    I am a Product Developer specializing in building scalable web and mobile applications. 
-    My expertise includes React.js, Next.js, React Native, TypeScript, HTML, CSS, JavaScript, 
-    Tailwind CSS, and end-to-end state management using Redux with Saga or Context API. 
-    I am also proficient in Git and Shopify development, with strong experience in delivering 
-    high-performance, user-focused digital solutions.
-  </p>
-</h2>
+<h1 align="center">Hi 👋, I'm Shivanshu Rajput</h1>
+<h3 align="center">🚀 Product Developer | React.js | Next.js | React Native | TypeScript | Redux-Saga | Context API | Tailwind CSS | Azure</h3>
 
-<img align="right" alt="coading" width="400" src="https://user-images.githubusercontent.com/103635801/206841304-900bfdc9-a7a1-4d1c-8dea-668bd28d8e81.gif"
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanshu002&label=Profile%20views&color=0e75b6&style=flat" alt="shivanshu002" /> </p>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/103635801/206841304-900bfdc9-a7a1-4d1c-8dea-668bd28d8e81.gif" />
 
-- 🌱 I’m currently learning **MERN**
+### 🌟 About Me  
+- 💻 I’m a **Product Developer** specializing in **scalable web & mobile apps**  
+- ⚛️ Strong expertise in **React.js, Next.js, React Native, TypeScript**  
+- 🔄 End-to-end **state management** with **Redux + Saga** and **Context API**  
+- 🎨 Skilled in **UI/UX** with **Tailwind CSS** and modern design principles  
+- 🌱 Currently exploring **MERN stack & Azure Cloud**  
+- 📫 Reach me at **shivanshu63073@gmail.com**  
+- ⚡ Fun fact: *Coding is my passion, learning is my journey 🚀*  
 
-- 📫 How to reach me **shivanshu63073@gmail.com**
+---
 
-- ⚡ Fun fact **💻 Coding is my passion, learning is my journey, and I'm always excited about new technologies.**
-
-<h3 align="left">Connect with me:</h3>
+### 🔗 Connect with Me  
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shivanshu-rajput-a134a5226/" target="blank">
- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivanshu-rajput-a134a5226/" height="30" width="40" />
-</a>
-<a href="https://codesandbox.com/shivanshu0029" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="shivanshu0029" height="30" width="40" />
-</a>
-<a href="https://www.hackerrank.com/@shivanshu63073" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@shivanshu63073" height="30" width="40" />
-</a>
+  <a href="https://www.linkedin.com/in/shivanshu-rajput-a134a5226/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://codesandbox.com/shivanshu0029" target="blank">
+    <img src="https://img.shields.io/badge/CodeSandbox-000000?style=for-the-badge&logo=codesandbox&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/@shivanshu63073" target="blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center"> 
-			    <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-        </a>
-        <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> 
-		<img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> 
-	<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-	<a href="https://dart.dev" target="_blank" rel="noreferrer">  </a> 
-	<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-	<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-	<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-	<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-	<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-	<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-	<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="80" height="40"/> </a>
+---
+
+### 🛠️ Languages & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,nodejs,express,mongodb,tailwind,git,shopify,firebase,androidstudio,flutter,azure&perline=8" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivanshu002&show_icons=true&locale=en&layout=compact" alt="shivanshu002" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivanshu002&show_icons=true&locale=en" alt="shivanshu002" /></p>
+---
 
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivanshu002&show_icons=true&theme=radical" alt="GitHub stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshu002&layout=compact&theme=radical" alt="Top Langs" height="170" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivanshu002&" alt="shivanshu002" /></p>
+---
+
+### 🔥 GitHub Streak  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shivanshu002&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### ✨ Profile Views  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shivanshu002&label=Profile%20views&color=blueviolet&style=flat-square" alt="shivanshu002" />
+</p>
