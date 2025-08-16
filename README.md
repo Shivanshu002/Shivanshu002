@@ -10,7 +10,6 @@
 ⚛️ Expert in **React.js, Next.js, React Native, TypeScript**  
 🎨 Skilled in **Tailwind CSS, modern UI/UX, Shopify Development**  
 🔄 Strong focus on **end-to-end state management (Redux + Saga / Context API)**  
-🚀 Currently expanding knowledge in **MERN & Azure**  
 📧 Reach me at: **shivanshu63073@gmail.com**  
 
 ---
