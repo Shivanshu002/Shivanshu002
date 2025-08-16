@@ -1,5 +1,14 @@
 <h1 align="center">Hi 👋 I'm Shivanshu Rajput</h1>
-<h2 align="center"><p>I am an experienced front-end developer specializing in web and mobile applications, with expertise in html, css, javascript, react.js, react native, tailwind css, and redux. i am also proficient in git and shopify development. currently, i am expanding my skill set to include back-end development, focusing on technologies such as rest apis, node.js, express.js, and mongodb. as part of my practice, i have successfully created a rest api.</p></h2>
+<h2 align="center">
+  <p>
+    I am a Product Developer specializing in building scalable web and mobile applications. 
+    My expertise includes React.js, Next.js, React Native, TypeScript, HTML, CSS, JavaScript, 
+    Tailwind CSS, and end-to-end state management using Redux with Saga or Context API. 
+    I am also proficient in Git and Shopify development, with strong experience in delivering 
+    high-performance, user-focused digital solutions.
+  </p>
+</h2>
+
 <img align="right" alt="coading" width="400" src="https://user-images.githubusercontent.com/103635801/206841304-900bfdc9-a7a1-4d1c-8dea-668bd28d8e81.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanshu002&label=Profile%20views&color=0e75b6&style=flat" alt="shivanshu002" /> </p>
