@@ -1,5 +1,5 @@
 <h1 align="center">Shivanshu Rajput</h1>
-<h3 align="center">Software Engineer MERN Trainer · Open for Contributions 🤝</h3>
+<h3 align="center">Software Engineer + MERN Trainer · Open for Contributions 🤝</h3>
 
 ---
 
