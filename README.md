@@ -1,5 +1,5 @@
 <h1 align="center">Shivanshu Rajput</h1>
-<h3 align="center">Software Engineer · Open for Contributions 🤝</h3>
+<h3 align="center">Software Engineer MERN Trainer · Open for Contributions 🤝</h3>
 
 ---
 
@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-Software Engineer with **1 year** of experience building production-grade web and mobile applications.
+Software Engineer with **2+ year** of experience building production-grade web and mobile applications.
 
 📍 Noida, India  
 💼 Open to Frontend / React / React Native roles in NCR  
